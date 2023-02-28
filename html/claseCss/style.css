@@ -1,0 +1,18 @@
+/* elemento */
+p{
+    color:aqua;
+    font-size: larger;
+}
+
+/* CLASS */
+
+.parrafo {
+    color:aquamarine;
+}
+
+/* id */
+
+#texto{
+    color: blueviolet;   
+    font-size: x-large; 
+}
